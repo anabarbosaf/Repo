@@ -1,1 +1,3 @@
 this is the initial content for conflict
+this is a different content for conflict.txt
+
